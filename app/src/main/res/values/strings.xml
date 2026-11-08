@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nerdmor</string>
+    <string name="logo">&lt;NERDMOR/&gt;</string>
+    <string name="domain">nerdmor.com</string>
+    <string name="prompt">nerdmor@android:~$ ./hello</string>
+    <string name="hello">Hello, World!</string>
+    <string name="tagline">// bem-vindo ao universo nerd</string>
+    <string name="visit">Visitar nerdmor.com →</string>
+    <string name="site_url">https://nerdmor.com</string>
+</resources>

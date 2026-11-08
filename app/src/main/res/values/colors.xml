@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Paleta do Nerdmor. Ajuste aqui para casar com as cores oficiais do site. -->
+<resources>
+    <color name="nerdmor_bg">#0D1117</color>
+    <color name="nerdmor_card">#161B22</color>
+    <color name="nerdmor_border">#30363D</color>
+    <color name="nerdmor_accent">#39FF88</color>
+    <color name="nerdmor_secondary">#B388FF</color>
+    <color name="nerdmor_text">#F0F6FC</color>
+    <color name="nerdmor_muted">#8B949E</color>
+</resources>
