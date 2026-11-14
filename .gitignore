@@ -8,3 +8,7 @@ local.properties
 captures/
 *.keystore
 *.jks
+
+# APKs baixados/gerados localmente
+/apk/
+*.apk
